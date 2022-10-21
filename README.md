@@ -30,7 +30,7 @@ Esse projeto propôs ensinar algumas funcionalidades da linguagem JavaScript, co
 - Utilizar códigos de terceiros, como o IMask.js que permite criar máscaras para os inputs.
 - Acessar uma função através do globalThis pelo DevTools.
 
-## ⚙️ Tecnologias
+## 🚀 Tecnologias
 
 Projeto desenvolvido com as seguintes tecnologias:
 
